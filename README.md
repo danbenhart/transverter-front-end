@@ -1,6 +1,7 @@
 # transverter-front-end
 ![License](https://img.shields.io/badge/license-CERN--OHL--S%20v2-blue)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/danbenhart/transverter-front-end)
+[![Type](https://img.shields.io/badge/type-HF%20RF%20hardware-green.svg)]()
 ![Status](https://img.shields.io/badge/status-pre--fab-orange)
 Project introduction
 
