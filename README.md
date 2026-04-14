@@ -1,10 +1,13 @@
 # transverter-front-end
+![License](https://img.shields.io/badge/license-CERN--OHL--S%20v2-blue)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/danbenhart/transverter-front-end)
+![Status](https://img.shields.io/badge/status-pre--fab-orange)
 Project introduction
 
 This project is a modular HF transmitter front-end and control system designed around a software-defined radio (SDR) with an external RF signal chain.
 The system includes:
 
-    band-selectable RF filtering (LPF/BPF)
+	band-selectable RF filtering (LPF/BPF)
     relay-based signal routing
     digitally controlled attenuation
     local oscillator (LO) control
